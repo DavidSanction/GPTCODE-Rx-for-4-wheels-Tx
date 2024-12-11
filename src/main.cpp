@@ -6,8 +6,8 @@
 const int MOTOR1_A = 25;
 const int MOTOR1_B = 26;
 const int MOTOR2_A = 27;
-const int MOTOR2_B = 14;
-const int MOTOR3_A = 12;
+const int MOTOR2_B = 21;
+const int MOTOR3_A = 16;
 const int MOTOR3_B = 13;
 const int MOTOR4_A = 33;
 const int MOTOR4_B = 32;
